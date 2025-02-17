@@ -12,7 +12,7 @@ Imprime en la consola un mensaje que indique la nota que obtuvo el alumno.
 
 
 
-let nota = 4;
+let nota = 45;
 
 if (nota>=90){
     console.log("excelente");
