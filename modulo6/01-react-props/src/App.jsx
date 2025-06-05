@@ -9,9 +9,7 @@ import cinco from './assets/img/cinco.jpg'
 import seis from './assets/img/seis.jpg'
 import Info from './components/Info'
 
-
 function App() {
-  
 
   return (
   <>
